@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/skinman55/react-training/static/css/main.3e29c5e0.css",
-    "main.js": "/skinman55/react-training/static/js/main.607476b0.js",
-    "static/js/787.32032a02.chunk.js": "/skinman55/react-training/static/js/787.32032a02.chunk.js",
-    "static/media/SEGA.TTF": "/skinman55/react-training/static/media/SEGA.8a619f32417a0fe72728.TTF",
-    "index.html": "/skinman55/react-training/index.html",
-    "main.3e29c5e0.css.map": "/skinman55/react-training/static/css/main.3e29c5e0.css.map",
-    "main.607476b0.js.map": "/skinman55/react-training/static/js/main.607476b0.js.map",
-    "787.32032a02.chunk.js.map": "/skinman55/react-training/static/js/787.32032a02.chunk.js.map"
+    "main.css": "/react-training/static/css/main.d4149df9.css",
+    "main.js": "/react-training/static/js/main.a64df631.js",
+    "static/js/787.32032a02.chunk.js": "/react-training/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.TTF": "/react-training/static/media/SEGA.8a619f32417a0fe72728.TTF",
+    "index.html": "/react-training/index.html",
+    "main.d4149df9.css.map": "/react-training/static/css/main.d4149df9.css.map",
+    "main.a64df631.js.map": "/react-training/static/js/main.a64df631.js.map",
+    "787.32032a02.chunk.js.map": "/react-training/static/js/787.32032a02.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e29c5e0.css",
-    "static/js/main.607476b0.js"
+    "static/css/main.d4149df9.css",
+    "static/js/main.a64df631.js"
   ]
 }
